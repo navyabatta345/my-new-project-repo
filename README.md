@@ -1,1 +1,9 @@
-# my-new-project-repo
+CANVA WEB APPLICATION PROJECT
+
+1.P.komalalitha
+2.B.navya
+3.B.priti
+4.G.padmasri
+5.K.ramya
+
+BY USING A CANVA WE CREATED A POSTER CALLED WEB APPLICATION 
